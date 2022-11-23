@@ -1,12 +1,8 @@
 body
 {
-<<<<<<< HEAD
-    color: rgb(198, 11, 11);
-=======
-    color: rgb(198, 11, 11);
->>>>>>> cabecera
+    color: rgb(8, 1, 1);
     text-align: left ;
-    font-family: 'Courier New';
+    font-family: arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -14,7 +10,7 @@ body
 
 #cabecera1
 {
-background: rgb(24, 228, 99);
+background: rgb(85, 24, 228);
 box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
 color: rgba(242, 223, 191, 0.822);
 font-weight: bold;
