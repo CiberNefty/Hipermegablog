@@ -1,6 +1,6 @@
 body
 {
-    color: red;
+    color: rgb(12, 12, 1);
     text-align: left ;
     font-family: "Arial";
     font-size: 16px;
@@ -8,17 +8,17 @@ body
     padding: 0;
 }
 
-#cabecera
+#cabecera1
 {
 background: #33A;
 box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
-color: white;
+color: rgba(242, 223, 191, 0.822);
 font-weight: bold;
 margin: 0;
 padding: 0.5em;
 }
 
-#cabecera #tagline
+#cabecera1 #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -31,7 +31,7 @@ padding: 0.5em;
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(250, 147, 147);
     margin: 0 auto;
 }
 #container h1
